@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="Tank Game.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\mainMenu.cs">
+    <Files>
+      <File FileName="Assets\Script\tankManager.cs" Line="13" Column="9" />
+      <File FileName="Assets\Standard Assets\Effects\ImageEffects\Scripts\Blur.cs" Line="18" Column="24" />
+      <File FileName="Assets\Script\mainMenu.cs" Line="10" Column="15" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
